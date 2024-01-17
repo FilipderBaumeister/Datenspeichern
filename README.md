@@ -26,7 +26,7 @@ int main()
 }
 ```
 
-## Code Snippet 2
+## Code Snippet 2 (works perfectly)
 
 This code snippet demonstrates how to append user input to a file named "Datei.csv" and then read the data back from the file. The file is opened in append mode (`ios::app`), allowing new data to be added to the end of the file without overwriting existing data.
 
